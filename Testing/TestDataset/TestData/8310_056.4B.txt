@@ -1,0 +1,27 @@
+(symmetric multiprocessing), software-
+and hardware-implemented RAID, and 
+performance monitoring.
+  OS/2 is available with support for SMP
+and will soon run on the PowerPC. Net-
+Ware support for SMP is expected to 
+ship this summer. And the full gamut of 
+high-end OS features-~including 32-bit-
+ness, multitasking, SMP support, and 
+management tools-~has been available 
+for years in SCO Unix, Novell's UnixWare,
+and Solaris for x86 and Interactive Unix
+from SunSoft.
+  Though NetWare's performance ben-
+efits from kernel-mode operation, its re-
+liability suffers: The NOS is subject to
+crashing from conflicting NLMs (NetWare
+loadable modules). Fortunately, this isn't
+the problem it would be in a general-pur-
+pose OS, because end users typically
+don't load software onto servers. But
+NetWare must evolve task isolation and 
+preemptive multitasking to become a 
+credible application server, which is pre-
+cisely what Novell plans to do in Super-
+NOS, a next-generation OS combining 
+NetWare and UnixWare.
